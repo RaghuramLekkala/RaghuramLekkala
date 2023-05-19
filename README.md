@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaghuramLekkala
 - 👀 I’m interested in Coding mostly JS and Pyhton but this may change in Future :)
-- 🌱 I’m currently learning Typescript with ReactJS and NextJS
-- 💞️ I’m looking to collaborate on React and React Native applications
+- 🌱 I’m currently working projects based on Typescript with ReactJS and NextJS
+- 💞️ I’m looking to collaborate on React, Next.js and React Native applications
 - 📫 How to reach me lekkala.raghuramreddy@gmail.com
 
 <!---
